@@ -1,0 +1,63 @@
+# Virtual Environment
+cumulusai_env/
+venv/
+env/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Application Data
+*.db
+*.sqlite
+*.sqlite3
+cumulusai.db
+logs/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large binary files and legacy data
+*.mdb
+*.accdb
+Legacy/
+HP2000*/
