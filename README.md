@@ -2,6 +2,16 @@
 
 A comprehensive desktop weather station application inspired by Cumulus, providing real-time data display, historical data management, and advanced weather analysis.
 
+## 🔨 Project Status
+
+**⚠️ Under Active Development - Phase 0 (Data Archaeology)**
+
+This is a greenfield project currently in the design and data analysis phase. The architecture is being discovered through intentional co-development with Claude Code and CCV3.
+
+**Not ready for production use.** Expect significant changes to structure and APIs as we progress through phases.
+
+For development notes, architecture decisions, and CCV3 learnings, see [CLAUDE_CODE_GUIDE.md](CLAUDE_CODE_GUIDE.md) and [.claude/handoffs/cumulusai-session-1.md](.claude/handoffs/cumulusai-session-1.md).
+
 ## Overview
 
 CumulusAI unifies weather data from multiple sources:
